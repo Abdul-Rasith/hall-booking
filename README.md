@@ -20,4 +20,5 @@ The Hall Booking Application is a full-stack web application designed to manage 
 - List Customer’s Bookings: GET /api/customer-bookings/:customerName
 
 # Deployment Url: 
-- 
+- **Back-end Deployment used render.com**
+- https://hall-booking-vg19.onrender.com
